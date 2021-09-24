@@ -1,19 +1,11 @@
-
-
-#  Installation
-
-
-
-# Usage
-
 # Title
 
-This is an example file with default selections.
 
-## Install
+
+## Installation
 
 ```$ npm install```
-```
+
 
 ## Usage
 
