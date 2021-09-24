@@ -16,6 +16,8 @@ Run local HTTP server
 **http:// localhost / [path] / dist/**
 
 ```
+Yore
+
  <?php 
 
  $recipient = ''; // <-- Your emeil
