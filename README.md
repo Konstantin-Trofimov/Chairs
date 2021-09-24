@@ -1,3 +1,5 @@
-# Ch1airs
+
 
 #### Installation
+
+* npm install
