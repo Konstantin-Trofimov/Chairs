@@ -4,12 +4,18 @@
     }
 }
 
+@media (max-width: 1110px) {
+    .cards-wrapper {
+        max-width: 700px;
+        margin: 0 auto;
+    }
+}
+
+
+
 @media (max-width: 1024px) {
     .container {
         max-width: 786px;
+        padding: 10px;
     }
-
-    // .img {
-    //     width:  calc(320px + (700 - 320) * ((100vw - 320px) / (1024 - 320))) ;;
-    // }
 }

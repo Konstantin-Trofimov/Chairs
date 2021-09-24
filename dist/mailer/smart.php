@@ -1,5 +1,7 @@
 <?php 
 
+$recipient = ''; // <-- Your emeil
+
 $name = $_POST['name'];
 $phone = $_POST['phone'];
 $email = $_POST['email'];
@@ -20,8 +22,8 @@ $mail->Password = 'v2c6rr6dzs';
 $mail->SMTPSecure = 'ssl';                            
 $mail->Port = 587;                                   
  
-$mail->setFrom('test.m2jftk3s51@gmail.com', 'Pulse');   
-$mail->addAddress('const.trofimov@gmail.com');     
+$mail->setFrom('test.m2jftk3s51@gmail.com', 'Web_Booster');   
+$mail->addAddress($recipient);     
 $mail->isHTML(true);                                
 $mail->Subject = 'Данные';
 $mail->Body    = '
