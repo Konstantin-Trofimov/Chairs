@@ -8,7 +8,7 @@
 
 # Usage
 
-Enter your email
+-Enter your email
 
 **[path] / dist / mailer / smart.php**
 
@@ -17,7 +17,7 @@ Enter your email
 
  $recipient = ''; // <-- Your emeil
 ```
-Run local HTTP server
+-Run local HTTP server
 
 <em>.Now you can visit http://localhost: to view your server</em>.
 
