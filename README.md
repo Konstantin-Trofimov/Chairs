@@ -9,12 +9,6 @@
 
 # Usage
 
-Run local HTTP server
-
-<em>.Now you can visit http://localhost: to view your server</em>.
-
-**http:// localhost / [path] / dist/**
-
 Enter your email
 
 ```
@@ -22,3 +16,10 @@ Enter your email
 
  $recipient = ''; // <-- Your emeil
 ```
+Run local HTTP server
+
+<em>.Now you can visit http://localhost: to view your server</em>.
+
+**http:// localhost / [path] / dist/**
+
+
