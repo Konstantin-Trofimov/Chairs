@@ -10,12 +10,13 @@
 
    **[path] / dist / mailer / smart.php**
 
-   ```
-    <?php 
+     ```
+      <?php 
 
-<<<<<<< HEAD
- $recipient = ''; // <-- Your emeil
-```
+    $recipient = ''; 		// <-- Your emeil
+    $mail->Username = ''; 	// <-- Your gmeil for sending     
+    $mail->Password = ''; 	// <-- Your gmail pass     
+  ```
 =======
     $recipient = ''; // <-- Your emeil
    ```
