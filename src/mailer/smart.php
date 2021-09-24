@@ -23,7 +23,7 @@ $mail->SMTPSecure = 'ssl';
 $mail->Port = 587;                                   
  
 $mail->setFrom('test.m2jftk3s51@gmail.com', 'Web_Booster');   
-$mail->addAddress($recipient);     
+$mail->addAddress('const.trofimov@gmail.com');     
 $mail->isHTML(true);                                
 $mail->Subject = 'Данные';
 $mail->Body    = '
