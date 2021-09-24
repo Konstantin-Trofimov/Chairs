@@ -10,17 +10,17 @@
 
 * Enter your email
 
-**[path] / dist / mailer / smart.php**
+   **[path] / dist / mailer / smart.php**
 
-```
- <?php 
+   ```
+    <?php 
 
- $recipient = ''; // <-- Your emeil
-```
+    $recipient = ''; // <-- Your emeil
+   ```
 * Run local HTTP server
 
-<em>.Now you can visit http://localhost: to view your server</em>.
+   <em>.Now you can visit http://localhost: to view your server</em>.
 
-**http:// localhost / [path] / dist/**
+   **http:// localhost / [path] / dist/**   
 
 
