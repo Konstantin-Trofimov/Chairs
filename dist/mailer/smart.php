@@ -18,9 +18,9 @@ $mail->SMTPAuth = true;
 $mail->Username = 'test.m2jftk3s51@gmail.com';               
 $mail->Password = 'v2c6rr6dzs';                          
 $mail->SMTPSecure = 'ssl';                            
-$mail->Port = 465;                                   
+$mail->Port = 587;                                   
  
-$mail->setFrom('test.m2jftk3s51@gmail.com', 'Web_Booster');   
+$mail->setFrom('test.m2jftk3s51@gmail.com', 'Pulse');   
 $mail->addAddress('const.trofimov@gmail.com');     
 $mail->isHTML(true);                                
 $mail->Subject = 'Данные';
