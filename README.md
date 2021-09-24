@@ -15,9 +15,9 @@ Run local HTTP server
 
 **http:// localhost / [path] / dist/**
 
-```
-Yore
+Enter your email
 
+```
  <?php 
 
  $recipient = ''; // <-- Your emeil
