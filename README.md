@@ -18,5 +18,5 @@ Run local HTTP server
 ```
  <?php 
 
-$recipient = ''; // <-- Your emeil
+ $recipient = ''; // <-- Your emeil
 ```
