@@ -11,7 +11,7 @@
 
 Enter your email
 
-** [path] / dist/mailer/smart.php**
+**[path] / dist/mailer/smart.php**
 
 ```
  <?php 
