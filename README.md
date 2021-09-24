@@ -1,5 +1,5 @@
 
 
-# H1 Installation
+#  Installation
 
 ```npm install```
