@@ -8,11 +8,9 @@
 
 # Usage
 
-**[path] / dist / mailer / smart.php**
-
 Enter your email
 
-**http:// localhost / [path] / dist/**
+**[path] / dist / mailer / smart.php**
 
 ```
  <?php 
