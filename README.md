@@ -1,4 +1,4 @@
-# Title
+# Chairs
 
 
 
@@ -7,6 +7,8 @@
 ```$ npm install```
 
 # Usage
+
+**[path] / dist / mailer / smart.php**
 
 Enter your email
 
