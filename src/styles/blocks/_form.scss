@@ -1,0 +1,50 @@
+.overlay {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    height: 100vh;
+    width: 100vw;
+    background-color: rgba(0, 0, 0, 0.555); 
+}
+
+.modal {
+    background-color: #FFFF;
+    height: 25em;
+    width: 20em;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 30px;
+    border-radius: 10px;
+}
+
+.form {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+
+    input, textarea {
+        width: 100%;
+        padding: 10px;
+        font-weight: 500;
+        font-size: 16px;
+        color: #696969;
+        border: 2px solid #F13C6E;
+    }
+
+    &__btn {
+        width: 60%;
+    }
+}
+
+.active {
+    display: block;
+}
+

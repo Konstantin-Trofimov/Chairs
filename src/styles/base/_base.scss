@@ -1,0 +1,22 @@
+* {
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+    font-size: 1.8em;
+}
+
+.container {
+    margin: 0 auto;
+    max-width: 1024px;
+}
+
+.img {
+    max-width: 100%;
+    height: auto;
+}
+
+.mark {
+    background-color: #ffff00;
+}
