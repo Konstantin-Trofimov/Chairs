@@ -1,4 +1,4 @@
-# Cairs
+# Title
 
 
 
@@ -9,9 +9,7 @@
 
 # Usage
 
-Enter your email
-
-**[path] / dist / mailer / smart.php**
+! Enter your email
 
 ```
  <?php 
