@@ -13,7 +13,7 @@
     ```
    <?php 
 
-   $recipient = ''; 		  // <-- Your emeil
+   $recipient = ''; 	// <-- Your emeil
    $mail->Username = ''; 	// <-- Your gmeil for sending     
    $mail->Password = ''; 	// <-- Your gmail pass     
    ```
