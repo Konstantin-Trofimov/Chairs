@@ -1,6 +1,8 @@
 <?php 
 
-$recipient = ''; // <-- Your emeil
+$recipient = ''; 		// <-- Your emeil
+$mail->Username = ''; 	// <-- Your gmeil for sending     
+$mail->Password = ''; 	// <-- Your gmail pass     
 
 $name = $_POST['name'];
 $phone = $_POST['phone'];
@@ -16,9 +18,7 @@ $mail->CharSet = 'utf-8';
                              
 $mail->isSMTP();                                      
 $mail->Host = 'smtp.gmail.com'; 
-$mail->SMTPAuth = true;                               
-$mail->Username = 'test.m2jftk3s51@gmail.com';               
-$mail->Password = 'v2c6rr6dzs';                          
+$mail->SMTPAuth = true;                                               
 $mail->SMTPSecure = 'ssl';                            
 $mail->Port = 587;                                   
  
