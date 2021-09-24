@@ -6,10 +6,11 @@
 
 ```$ npm install```
 
-
 # Usage
 
 Enter your email
+
+**http:// localhost / [path] / dist/**
 
 ```
  <?php 
