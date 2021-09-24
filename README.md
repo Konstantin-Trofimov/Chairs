@@ -9,7 +9,7 @@
 
 # Usage
 
-! Enter your email
+[#f03c15] Enter your email
 
 ```
  <?php 
